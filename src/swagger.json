@@ -8,6 +8,12 @@
             "email": "brunood07@gmail.com"
         }
     },
+    "tags": [
+        {
+        "name": "Users",
+        "description": "User management"
+        }
+    ],
     "paths": {
         "/users": {
             "post": {
